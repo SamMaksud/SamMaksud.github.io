@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+tw-story {
+  font-family: 'Silkscreen', cursive;
+  font-size: 40px;
+  background-color: #A2D5AC;
+}
+
+tw-passage {
+  font-family:'Silkscreen', cursive;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  
+}
+tw-passage img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
